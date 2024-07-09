@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft MVPs World Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-9DnaukoJn6X9CA48lAnh64GjUnw14I1i9Gz79rGkGNT3GZCCrBUDz1m+RQGf9lLpKg3K/uVVWlLqObk7OrUeLw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+        #map {
+            height: 100vh;
+        }
+        .mvp-icon {
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            display: none; /* Initially hide markers */
+            animation: fadeIn 1s ease-in-out; /* CSS animation for fade-in effect */
+        }
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+        #logo {
+            position: absolute;
+            top: 20px;
+            left: 100px;
+            z-index: 9999; /* Ensure it is above the map */
+        }
+        #logo img {
+            width: 150px; /* Adjust size as needed */
+        }
+        
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div id="logo">
+        <img src="images/mvp.png" alt="Microsoft MVPs Logo" />
+    </div>
+   
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="j1.js"></script>
+    <script src="j2.js"></script>
+
+    <script>
+        
+
+        // Function to show markers with animation
+        function showMarkersWithAnimation() {
+            var markers = document.querySelectorAll('.mvp-icon');
+            markers.forEach(marker => {
+                marker.style.display = 'block'; // Show marker
+            });
+        }
+
+        // Call the showMarkersWithAnimation function when the document is ready or immediately
+        showMarkersWithAnimation();
+    </script>
+</body>
+</html>
