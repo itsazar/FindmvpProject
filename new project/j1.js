@@ -138,15 +138,15 @@ lng: 80.9462,
             year: '2016', 
             linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/89f98fa8-3c9a-e411-93f2-9cb65495d3c4' 
         },
-        { 
-            lat: 25.3176,
-            lng: 82.9739,
-            name: 'Rohit Yadav', 
-            picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/16e2e9b1-549f-4b00-94d7-74c05eac1f82?638476584015287176', 
-            category: 'AI platform', 
-            year: '2022', 
-            linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/16e2e9b1-549f-4b00-94d7-74c05eac1f82' 
-        },
+        // { 
+        //     lat: 25.3176,
+        //     lng: 82.9739,
+        //     name: 'Rohit Yadav', 
+        //     picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/16e2e9b1-549f-4b00-94d7-74c05eac1f82?638476584015287176', 
+        //     category: 'AI platform', 
+        //     year: '2022', 
+        //     linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/16e2e9b1-549f-4b00-94d7-74c05eac1f82' 
+        // },
         { 
             lat: 27.1767,
 lng: 78.0081,
