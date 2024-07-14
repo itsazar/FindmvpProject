@@ -41,7 +41,7 @@ var mvps = [
         
         lat: 8.7139,
         lng: 77.7567, 
-        name: 'Mohamed Azarudeen', 
+        name: 'Mohamed Azarudeen Z', 
         picture: 'images/samp.jpg', 
         category: 'Azure openAI and AI services', 
         year: '2024', 
@@ -1358,8 +1358,8 @@ year: '2024',
 linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/393ebdef-aab3-45d4-83d3-f59fb914b607' 
 },
 
-{lat: 13.7563,
-    lng: 100.5018,
+{lat: 13.7460,
+    lng: 100.5394,
     
 name: 'Teerasej Jiraphatchandej', 
 picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/1b57773c-a042-e711-8112-3863bb2ed1f8', 
@@ -1955,6 +1955,48 @@ year: '2024',
 linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/574c366b-e5f4-422a-87be-8d8a791c4f36' 
 },
 
+{lat: 16.8409,
+    lng: 96.1735,
+    
+name: 'Zar Ni Tyn',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/5f993182-65c9-e911-a9a2-000d3a1362e3?638452201663100241', 
+category: 'Microsoft 365', 
+year: '2018', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/5f993182-65c9-e911-a9a2-000d3a1362e3' 
+},
+
+
+{lat: 59.9139,
+    lng: 10.7522,
+    
+name: 'Knut Relbe-Moe',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/7d9407f9-3c9a-e411-93f2-9cb65495d3c4', 
+category: 'Microsoft Teams, Microsoft Viva', 
+year: '2014', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/7d9407f9-3c9a-e411-93f2-9cb65495d3c4' 
+},
+
+{lat: 35.1495,
+    lng: -90.0490,
+    
+name: 'Douglas Starnes',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/6820a3f7-1f89-ea11-a812-000d3a8dfe0d', 
+category: 'Python, Azure AI Services', 
+year: '2019', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/6820a3f7-1f89-ea11-a812-000d3a8dfe0d' 
+},
+
+
+{lat: 47.6062,
+    lng: -122.3321,
+    
+name: 'Treb Gatte',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/ac650ff3-3c9a-e411-93f2-9cb65495d3c4', 
+category: 'Power BI, Azure AI Services', 
+year: '2013', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/ac650ff3-3c9a-e411-93f2-9cb65495d3c4' 
+},
+
 {lat: 50.6521,
     lng: 9.5800,
     
@@ -2299,6 +2341,225 @@ category: 'Microsoft Intune, Windows 365',
 year: '2022', 
 linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/c351a633-4a95-ec11-b400-000d3a4fa6d3' 
 },
+
+{lat: 17.123184,
+    lng: 79.208824,
+    
+name: 'Amit Chandak',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/f8dbc2ed-ff3e-ed11-bba3-000d3a197333', 
+category: 'Power BI, Microsoft Fabric', 
+year: '2022', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/f8dbc2ed-ff3e-ed11-bba3-000d3a197333' 
+},
+
+{lat: 18.1124,
+    lng: 79.0193,
+    
+name: 'Ritika Agarwal',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/a3fe6b35-38e8-ea11-a814-000d3a8dfe0d', 
+category: 'Power Pages, Power Apps', 
+year: '2019', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/a3fe6b35-38e8-ea11-a814-000d3a8dfe0d' 
+},
+
+
+{lat: 17.9784,
+    lng: 79.5941,
+    
+name: 'Venkata polisetty',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/8e5a912d-4a95-ec11-b400-000d3a4fa6d3', 
+category: 'Power Apps', 
+year: '2021', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/8e5a912d-4a95-ec11-b400-000d3a4fa6d3' 
+},
+
+
+{lat: 13.7563,
+    lng: 100.5018,
+    
+name: 'Surasuk Oakkharaamonphong',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/4d8c78ba-3c9a-e411-93f2-9cb65495d3c4?638398920613618784', 
+category: 'NET, Azure AI Services', 
+year: '2011', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/4d8c78ba-3c9a-e411-93f2-9cb65495d3c4' 
+},
+
+
+{lat: 55.6934,
+    lng: 12.5525,
+    
+name: 'Emilie Lundblad',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/4877819f-95fb-ed11-8f6d-000d3a560942?638270791844514532', 
+category: 'Azure Machine Learning Studio, Azure AI Services', 
+year: '2022', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/4877819f-95fb-ed11-8f6d-000d3a560942' 
+},
+
+{lat: 29.0588,
+    lng: 76.0856,
+    
+name: 'Mahender Pal',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/2b8e78ba-3c9a-e411-93f2-9cb65495d3c4', 
+category: 'Customer Experience', 
+year: '2013', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/2b8e78ba-3c9a-e411-93f2-9cb65495d3c4' 
+},
+
+{lat: 29.0588,
+    lng: 76.0856,
+    
+name: 'Priyesh Wagh',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/36216997-37e8-ea11-a813-000d3a8ccaf5', 
+category: 'AI ERP, Power Apps', 
+year: '2019', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/36216997-37e8-ea11-a813-000d3a8ccaf5' 
+},
+
+{lat: 20.2724,
+    lng: 85.8338,
+    
+name: 'Sanjaya Pradhan',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/1ff32085-fa36-ec11-b6e6-00224825194e', 
+category: 'Power Apps, Power Automate', 
+year: '2021', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/1ff32085-fa36-ec11-b6e6-00224825194e' 
+},
+
+{lat: 17.3850,
+    lng: 78.4867,
+    
+name: 'Yash Agarwal',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/7c62befc-6f42-ea11-a812-000d3a8ccba0', 
+category: 'Power Automate, Power Apps', 
+year: '2021', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/7c62befc-6f42-ea11-a812-000d3a8ccba0' 
+},
+
+{lat: 18.5293,
+    lng: 73.8450,
+    
+name: 'Smita Nachan',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/aeb306a4-6c60-eb11-a812-000d3a8ccaf5?638545611791764462', 
+category: 'Microsoft 365, Azure AI Services', 
+year: '2020', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/aeb306a4-6c60-eb11-a812-000d3a8ccaf5' 
+},
+
+{lat: 18.5917,
+    lng: 73.7388,
+    
+name: 'Nanddeep Nachan',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/74f0ada3-3959-ea11-a812-000d3a8cc830?638310737246467329', 
+category: 'Microsoft 365, Azure AI Services', 
+year: '2019', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/74f0ada3-3959-ea11-a812-000d3a8cc830' 
+},
+
+{lat: 23.0225,
+    lng: 72.5714,
+    
+name: 'Dhruvin Shah',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/88a86ca2-0d07-ec11-b6e6-000d3a57952c', 
+category: 'Power Automate, Power Apps', 
+year: '2020', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/88a86ca2-0d07-ec11-b6e6-000d3a57952c' 
+},
+
+{lat: 19.0760,
+    lng: 72.8777,
+    
+name: 'Shrushti Shah',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/c81104b4-8786-ed11-aad1-000d3a197333', 
+category: 'Power Apps, Microsoft 365', 
+year: '2022', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/c81104b4-8786-ed11-aad1-000d3a197333' 
+},
+
+{lat: 28.5355,
+    lng: 77.3910,
+    
+name: 'Nitin Sharma',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/926f6a12-7933-e611-8129-c4346bac7bfc', 
+category: 'AI Platform, Developer Technologies', 
+year: '2015', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/926f6a12-7933-e611-8129-c4346bac7bfc' 
+},
+
+{lat: 11.0168,
+    lng: 76.9558,
+    
+name: 'Ram Prakash Duraisamy',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/c53e685f-396f-ed11-81ab-000d3a5600fa', 
+category: 'Power Apps', 
+year: '2022', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/c53e685f-396f-ed11-81ab-000d3a5600fa' 
+},
+
+{lat: 19.0758,
+    lng: 72.8777,
+    
+name: 'Clavin Fernandes',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/fcbc6506-654b-ec11-8f8e-00224827f7fc', 
+category: 'Power Automate, Power Apps', 
+year: '2021', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/fcbc6506-654b-ec11-8f8e-00224827f7fc' 
+},
+
+{lat: 13.7367,
+    lng: 100.5232,
+    
+name: 'Thant Zin Phyo',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/17568c77-4d4c-ec11-8f8e-00224827f7fc?638562621508336058', 
+category: 'Azure Network Connectivity', 
+year: '2021', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/17568c77-4d4c-ec11-8f8e-00224827f7fc' 
+},
+
+
+{lat: 38.5816,
+    lng: -121.4944,
+    
+name: 'Jorge Levy',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/1e4791b6-fa36-ec11-b6e6-00224825194e', 
+category: '.NET', 
+year: '2021', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/1e4791b6-fa36-ec11-b6e6-00224825194e' 
+},
+
+{lat: 18.5167,
+    lng: 73.8567,
+    
+name: 'Siddharth Vaghasia',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/f6facde4-5c01-eb11-a815-000d3a8dfe0d', 
+category: 'M365 Development, Power Apps', 
+year: '2020', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/f6facde4-5c01-eb11-a815-000d3a8dfe0d' 
+},
+
+
+
+
+{lat: 37.1020,
+    lng: -8.6742,
+    
+name: 'Paul Keijzers',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/9279f41f-f35a-e711-8114-3863bb2ed1f8', 
+category: 'Microsoft 365, Microsoft Teams', 
+year: '2016', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/9279f41f-f35a-e711-8114-3863bb2ed1f8' 
+},
+
+
+{lat: 42.3736,
+    lng: -71.1097,
+    
+name: 'Dustin Willard',
+picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/7caccbae-f116-ee11-8f6e-000d3a1ad36b', 
+category: 'Microsoft advanced content management and experiences', 
+year: '2021', 
+linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/7caccbae-f116-ee11-8f6e-000d3a1ad36b' 
+},
+
 
 
 
