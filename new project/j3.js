@@ -1,1 +1,1 @@
-
+var tamil = "tamil";
