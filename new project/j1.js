@@ -41,7 +41,7 @@ var mvps = [
         
         lat: 8.7139,
         lng: 77.7567, 
-        name: 'Mohamed Azarudeen Z', 
+        name: 'Mohamed Azarudeen', 
         picture: 'images/samp.jpg', 
         category: 'Azure openAI and AI services', 
         year: '2024', 
