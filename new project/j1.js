@@ -2193,6 +2193,7 @@ linkedin: 'https://mvp.microsoft.com/en-US/MVP/profile/b6721f67-1479-e811-8130-3
 
 {lat: 62.1067,
     lng: 7.339,
+
     
 name: 'Simon Skotheimsvik',
 picture: 'https://mavenstorageprod.blob.core.windows.net/profile-pictures/f279b4af-12fb-4235-b2c7-c70ed8ca2602?638448810376245714', 
